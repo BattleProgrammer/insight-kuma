@@ -43,7 +43,7 @@
     "front-end"
   ],
   "scripts": {
-    "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-bitcore-api"
+    "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-kumacore-api"
   },
   "dependencies": {
     "insight-kumacore-api": "git://github.com/BattleProgrammer/insight-kumacore-api.git"
